@@ -1,4 +1,4 @@
-[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://www.shutterstock.com/image-vector/hello-world-text-coding-banner-600nw-2646410473.jpg))
+[![MasterHead](https://png.pngtree.com/template/20220505/ourmid/pngtree-programming-and-coding-banner-working-image_1312497.jpg)
 <h1 align="center">Hi 👋, I'm Arda Emin</h1>
 <h3 align="center">I am a passionate fullstack developer from Türkiye</h3>
 
