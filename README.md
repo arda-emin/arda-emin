@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/template/20220505/ourmid/pngtree-programming-and-coding-banner-working-image_1312497.jpg)
+[![MasterHead](https://img.freepik.com/premium-vector/back-end-developer-typographic-header-software-development_277904-18665.jpg)
 <h1 align="center">Hi 👋, I'm Arda Emin</h1>
 <h3 align="center">I am a passionate fullstack developer from Türkiye</h3>
 
