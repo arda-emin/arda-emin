@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/back-end-developer-typographic-header-software-development_277904-18665.jpg)
+[![MasterHead](https://kteccafrica.brainpals.com.ng/images/course_imgs/backend_kteccafrica.jpg)
 <h1 align="center">Hi 👋, I'm Arda Emin</h1>
 <h3 align="center">I am a passionate fullstack developer from Türkiye</h3>
 
